@@ -14,4 +14,4 @@
 docker-compose up -d --build
 ```
 
-This will start backend, frontend and MongoDB.
+This will start backend, front-end and MongoDB.
