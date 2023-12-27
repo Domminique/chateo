@@ -5,6 +5,12 @@ unique to the continent. These changing population dynamics mean that about 15 t
 million young people are expected to join the workforce every year for the next three
 decades. 
 
+
+*Sustainable Development Goal 4* emphasizes inclusive and equitable quality education for
+all, we believe that education is the cornerstone of progress and empowerment. So we asked the hard questions;  Through AI, Cloud, and Mobile applications, can we facilitate personalized and immersive learning experiences?  Can interactive platforms promote inclusive education, breaking down barriers and providing equal opportunities to learners of all backgrounds? Can  we empower educational institutions and organizations to transform their learning environments, enabling life long learning and fostering a skilled and knowledgeable workforce for the future?
+
+our solution is to answer this hard questions
+
 Lack of digital infrastructure and resources in many African regions has widened educational disparities as a result many students, particularly those in underserved communities, lack access to proper educational resources and face challenges in remote learning. This problem hinders their academic progress and future prospects.
 ## What it does
 **Ngalia* is an inclusive and scalable online education platform tailored to African needs offers curriculum-aligned content, live virtual classrooms, and interactive learning experiences. It will is accessible on various devices, ensuring inclusivity even in regions with limited internet access. The innovation lies in providing affordable, quality education that caters to the specific challenges of the African context.
