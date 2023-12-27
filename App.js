@@ -23,7 +23,7 @@ const Stack = createNativeStackNavigator()
 
 
 const client = new ApolloClient({
-    uri: 'http://192.168.42.181:5000/graphql',
+    uri: 'http://34.170.109.80:5000/graphql',
     cache: new InMemoryCache(),
   }); 
 
